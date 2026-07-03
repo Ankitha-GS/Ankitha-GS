@@ -25,6 +25,7 @@ Document Q&A with LLM-as-judge eval framework — faithfulness 0.91, chunk-size 
 
 ##  Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankitha-gs/)
+
 📧 ankithags44@gmail.com
 
 ---
