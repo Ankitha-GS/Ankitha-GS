@@ -1,6 +1,7 @@
 # Hi, I'm Ankitha GS 
 
-**AI & Full Stack Developer** · Bengaluru, India
+**AI & Full Stack Developer** · Bengaluru, India.
+
 Recent CS Engineering graduate building production-grade AI systems — not just demos.
 
 ---
