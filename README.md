@@ -1,33 +1,51 @@
-# Hi, I'm Ankitha GS 
+# Hi, I'm Ankitha GS
 
-**AI & Full Stack Developer** · Bengaluru, India.
+**Python Developer | AI/ML Engineer | Backend Development**
 
-Recent CS Engineering graduate building production-grade AI systems — not just demos.
+Computer Science graduate interested in building practical AI applications, backend systems, and LLM-powered solutions.
 
----
+I enjoy solving problems with Python and turning ideas into useful, well-documented software projects.
 
-## Projects
+### Featured Projects
 
-###  [AI Hire](https://github.com/Ankitha-GS/AI-Hire) · [Live demo →](https://ai-hire-phi.vercel.app)
-LLM-powered recruitment platform — resume parsing, ATS simulation, semantic gap analysis
-`Python` `FastAPI` `Pydantic v2` `Gemini API` `React` `Render` `Vercel`
+#### AI Resume Screener
+An AI-powered resume screening application designed to analyze resumes against job descriptions, evaluate skill alignment, and help identify relevant candidate profiles.
 
-###  [RAG-QA](https://github.com/Ankitha-GS/rag-qa) · [Live demo →](your-streamlit-url)
-Document Q&A with LLM-as-judge eval framework — faithfulness 0.91, chunk-size sweep
-`LangChain` `ChromaDB` `HuggingFace` `Groq` `FastAPI` `Streamlit`
+- **Focus:** Resume parsing, skill matching, ATS-style scoring
+- **Tech Stack:** Python, FastAPI, Gemini API, Pydantic, React
+- **Repository:** [View Project](https://github.com/Ankitha-GS/AI-Resume-Screener)
+- **Live Demo:** [Try the Application](https://ai-resume-screener-xdfp.onrender.com/docs)
 
----
+#### RAG Document Q&A System
+A retrieval-augmented generation application that lets users ask questions about documents and receive context-based answers.
 
-##  Stack
-`Python` `FastAPI` `LangChain` `React` `Pydantic v2` `ChromaDB` `HuggingFace` `Groq`
+- **Focus:** Document retrieval, embeddings, vector search, LLM evaluation
+- **Tech Stack:** Python, LangChain, ChromaDB, Hugging Face, FastAPI
+- **Repository:** [View Project](https://github.com/Ankitha-GS/rag-qa)
+-  **Live Demo:** [Try the Application](https://rag-app-juqkpcif2armydtzd2pevm.streamlit.app/)
 
----
+### Technical Skills
 
-##  Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankitha-gs/)
+**Languages:** Python, SQL
 
-📧 ankithags44@gmail.com
+**Backend:** FastAPI, REST APIs, Flask
 
----
+**AI/ML:** Generative AI, RAG, NLP, LLM integration, Hugging Face
 
-> *Open to AI/ML internships and full stack roles · Available immediately*
+**Databases:** PostgreSQL, MySQL, ChromaDB, SQLite
+
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+### Currently Focusing On
+
+- Strengthening Python and data structures & algorithms
+- Building reliable backend APIs
+- Developing practical AI and LLM applications
+- Improving software engineering fundamentals
+
+### Connect With Me
+
+- [GitHub](https://github.com/Ankitha-GS)
+- [LinkedIn](https://www.linkedin.com/in/ankitha-gs/)
+
+*Open to entry-level Python Developer, Backend Developer, and AI/ML opportunities.*
