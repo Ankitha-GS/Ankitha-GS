@@ -14,7 +14,7 @@ An AI-powered resume screening application designed to analyze resumes against j
 - **Focus:** Resume parsing, skill matching, ATS-style scoring
 - **Tech Stack:** Python, FastAPI, Gemini API, Pydantic, React
 - **Repository:** [View Project](https://github.com/Ankitha-GS/AI-Resume-Screener)
-- **Live Demo:** [Try the Application](https://ai-resume-screener-xdfp.onrender.com/docs)
+- **Live Demo:** [Try the Application](https://ai-resume-screener-one-sigma.vercel.app/)
 
 #### RAG Document Q&A System
 A retrieval-augmented generation application that lets users ask questions about documents and receive context-based answers.
